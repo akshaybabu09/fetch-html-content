@@ -23,7 +23,7 @@ The expected response is an email to the email id with a zip file attached The A
 ## Setup
 ```
 git clone https://github.com/akshaybabu09/fetch-html-content.git
-cd neobankaccount
+cd fetch-html-content
 sudo apt-get update
 sudo apt-get install python3.6
 python3 -m venv venv
